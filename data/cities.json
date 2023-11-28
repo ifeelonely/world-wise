@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Fanzara",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T10:02:20.249Z",
+      "notes": "",
+      "position": {
+        "lat": "40.028756479457776",
+        "lng": "-0.32684326171875006"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Montan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T10:05:47.599Z",
+      "notes": "",
+      "position": {
+        "lat": "40.03612763654821",
+        "lng": "-0.5781555175781251"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Cabanes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T10:06:58.853Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11698556867713",
+        "lng": "0.02197265625"
+      },
+      "id": 3
+    }
+  ]
+}
