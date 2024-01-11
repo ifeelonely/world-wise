@@ -1,8 +1,24 @@
-# React + Vite
+#World-Wise 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
+##Работа с проектом
+-Клонировать репозиторий(git clone);
+-Установить зависимости(npm i);
+-Запустить фейк-сервер(npm run server);
+-Запустить в режиме разработки(npm run dev).
 
-Currently, two official plugins are available:
+---
+##Инструменты
+-React;
+-CSS Modules;
+-React Router;
+-React tools for perforpance optimization;
+-Leaflet.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+##Описание проекта
+Данный пет-проект был реализован с целью получения практических навыков по разработки SPA-приложений на React и оптимизации приложений.
+
+Проект представляет собой SPA-приложение для путешествий, в котором пользователь может выбрать на карте места в которых он был, эти места будут занесены в фейк-базу данных и отображены на карте.
+
+
