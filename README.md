@@ -2,18 +2,18 @@
 
 ---
 ## Работа с проектом
--Клонировать репозиторий(git clone);
--Установить зависимости(npm i);
--Запустить фейк-сервер(npm run server);
--Запустить в режиме разработки(npm run dev).
+- Клонировать репозиторий(git clone);
+- Установить зависимости(npm i);
+- Запустить фейк-сервер(npm run server);
+- Запустить в режиме разработки(npm run dev).
 
 ---
 ## Инструменты
--React;
--CSS Modules;
--React Router;
--React tools for perforpance optimization;
--Leaflet.
+- React;
+- CSS Modules;
+- React Router;
+- React tools for perforpance optimization;
+- Leaflet.
 
 ---
 ## Описание проекта
