@@ -3,8 +3,6 @@ import styles from './City.module.css';
 import { useEffect } from 'react';
 import { useCities } from '../../contexts/CitiesContext';
 import Spinner from '../spinner/Spinner';
-import Button from '../button/Button';
-import { useNavigate } from 'react-router-dom';
 import BackBtn from '../backBtn/BackBtn';
 
 const formatDate = (date) =>
@@ -18,11 +16,10 @@ const formatDate = (date) =>
 function City() {
   const { id } = useParams();
   const { getCity, currentCity, isLoading } = useCities();
-  const navigate = useNavigate();
 
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   const { cityName, emoji, date, notes } = currentCity;
 
