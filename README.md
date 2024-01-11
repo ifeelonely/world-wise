@@ -12,7 +12,7 @@
 - React;
 - CSS Modules;
 - React Router;
-- React tools for perforpance optimization;
+- React tools for performance optimization;
 - Leaflet.
 
 ---
